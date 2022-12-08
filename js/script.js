@@ -4,6 +4,9 @@ let formElement = document.querySelector(".js-form");
 let amountElement = document.querySelector(".js-amount");
 let resultElement = document.querySelector(".js-result");
 
+console.log("Witam wszystkich developerów, którzy tutaj zaglądają😎 Ten kod jest już w repozytorium")
+
+
 let NOK = 2.19;
 let USD = 0.22;
 let EUR = 0.21;
