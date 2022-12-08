@@ -1,0 +1,38 @@
+.form__labelText {
+    max-width: 150px;
+    width: 100%;
+    display: inline-block;
+    margin: 10px;
+    margin-left: 5px;
+    }
+    
+    
+    
+    .form__field {
+        max-width: 200px;
+        width: 100%;
+        padding-left: 5px;
+    }
+    
+    .form__fieldset {
+        border: 3px solid rgb(214, 202, 175);
+        border-radius: 5px;
+    }
+    
+    .form__legend {
+    font-size: 18px;
+    border-radius: 5px;
+    background-color:olive;
+    color: aliceblue;
+    padding: 5px;
+    }
+    
+    .form__button {
+        width: 100%;
+        padding: 8px 0;
+        margin: 15px 0;
+        background-color:olive ;
+        border: none;
+        border-radius: 5px;
+        color: aliceblue;
+    }
