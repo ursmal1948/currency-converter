@@ -1,17 +1,23 @@
 .form__labelText {
-    max-width: 150px;
+    max-width: 120px;
     width: 100%;
     display: inline-block;
-    margin: 10px;
+    margin: 5px;
     margin-left: 5px;
     }
     
     
     
     .form__field {
-        max-width: 200px;
+        max-width: 230px;
         width: 100%;
         padding-left: 5px;
+        margin-left: 10px;
+    }
+
+    .form__field--shorter {
+        max-width: 70px;
+        text-align: center;
     }
     
     .form__fieldset {
