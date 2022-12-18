@@ -20,6 +20,7 @@ Page gives you the ability to convert money from PLN into following currencies
 1. Enter an amount in PLN
 1. Click the button below the calculator
 > Note: If you want to reset the form you can click the second button
+<img src="https://github.com/ursmal1948/currency-converter/blob/main/Animation.gif" width="550">
 
 ## Tools used in the project
 - HTML
