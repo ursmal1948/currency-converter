@@ -28,6 +28,7 @@ Page gives you the ability to convert money from PLN into following currencies
 - JavaScript
 - CSS
 - BEM
+- ES6 + Features
 
  ## Example values taken from currency converter
  > Note: rounded to two decimal places
