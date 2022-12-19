@@ -36,7 +36,7 @@ Page gives you the ability to convert money from PLN into following currencies
 PLN | Currency chosen | Converted value in chosen currency 
 --- | --- | --- |
 5 | EUR | 1.05 EUR |
-10 | NOK | 21.9 NOK |
-15 | USD | 3.3 USD |
-25 | GBP | 4.5 GBP |
+10 | NOK | 21.90 NOK |
+15 | USD | 3.30 USD |
+25 | GBP | 4.50 GBP |
 
