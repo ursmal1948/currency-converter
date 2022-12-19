@@ -26,7 +26,7 @@
     const updateResultText = (amount, result, currency) => {
 
         const resultElement = document.querySelector(".js-result");
-        resultElement.innerText = `${amount} PLN = ${result} ${currency}`;
+        resultElement.innerText = `${amount} PLN = ${result.toFixed(2)} ${currency}`;
 
     }
 
