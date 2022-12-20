@@ -42,11 +42,23 @@
         const result = calculateResult(amount, currency);
 
         updateResultText(amount, result, currency);
+
     };
 
+    const resetButtonElement = document.querySelector(".js-resetButton");
+
+    const onButtonResetElementClick = () => {
+        const resultElement = document.querySelector(".js-result");
+
+        resultElement.innerText = ``;
+    };
+
+    resetButtonElement.addEventListener("click", onButtonResetElementClick);
+
     const init = () => {
-        const formElement = document.querySelector(".js-form"); 
+        const formElement = document.querySelector(".js-form");
         formElement.addEventListener("submit", onFormSubmit);
     };
-        init();
+    init();
+
 };
