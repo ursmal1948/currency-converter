@@ -1,29 +1,35 @@
+.form {
+    margin-left: 30px;
+    margin-right: 30px;
+    background-color: white;
+}
+
 .form__labelText {
-    max-width: 120px;
+    max-width: 100px;
     width: 100%;
     display: inline-block;
     margin: 5px;
     margin-left: 5px;
     }
     
-    .form__field {
-        max-width: 230px;
+.form__field {
+        max-width: 190px;
         width: 100%;
         padding-left: 5px;
         margin-left: 10px;
     }
 
-    .form__field--shorter {
+.form__field--shorter {
         max-width: 70px;
         text-align: center;
     }
     
-    .form__fieldset {
+.form__fieldset {
         border: 3px solid rgb(214, 202, 175);
         border-radius: 5px;
     }
     
-    .form__legend {
+.form__legend {
     font-size: 18px;
     border-radius: 5px;
     background-color:olive;
@@ -31,7 +37,7 @@
     padding: 5px;
     }
     
-    .form__button {
+.form__button {
         width: 100%;
         padding: 8px 0;
         margin: 15px 0;
